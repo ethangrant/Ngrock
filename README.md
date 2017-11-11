@@ -42,3 +42,9 @@ If your local installation you wish to share is in a docker container, you shoul
 ```
 ngrock http magento2.docker:80
 ```
+
+This module can be installed via composer. Once installed you should be ready to go.
+
+```
+composer require ethangrant/ngrock
+```
